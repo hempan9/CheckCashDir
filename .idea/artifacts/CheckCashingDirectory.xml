@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CheckCashingDirectory">
+    <output-path>$PROJECT_DIR$/out/artifacts/CheckCashingDirectory</output-path>
+    <root id="archive" name="Intellij.jar">
+      <element id="module-output" name="CheckCashDir" />
+    </root>
+  </artifact>
+</component>
